@@ -1,0 +1,10 @@
+C:\Users\Ucenik\source\repos\Klasa_ArrayList\Klasa_ArrayList\bin\Debug\Klasa_ArrayList.exe.config
+C:\Users\Ucenik\source\repos\Klasa_ArrayList\Klasa_ArrayList\bin\Debug\Klasa_ArrayList.exe
+C:\Users\Ucenik\source\repos\Klasa_ArrayList\Klasa_ArrayList\bin\Debug\Klasa_ArrayList.pdb
+C:\Users\Ucenik\source\repos\Klasa_ArrayList\Klasa_ArrayList\obj\Debug\Klasa_ArrayList.csproj.AssemblyReference.cache
+C:\Users\Ucenik\source\repos\Klasa_ArrayList\Klasa_ArrayList\obj\Debug\Klasa_ArrayList.Form1.resources
+C:\Users\Ucenik\source\repos\Klasa_ArrayList\Klasa_ArrayList\obj\Debug\Klasa_ArrayList.Properties.Resources.resources
+C:\Users\Ucenik\source\repos\Klasa_ArrayList\Klasa_ArrayList\obj\Debug\Klasa_ArrayList.csproj.GenerateResource.cache
+C:\Users\Ucenik\source\repos\Klasa_ArrayList\Klasa_ArrayList\obj\Debug\Klasa_ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\source\repos\Klasa_ArrayList\Klasa_ArrayList\obj\Debug\Klasa_ArrayList.exe
+C:\Users\Ucenik\source\repos\Klasa_ArrayList\Klasa_ArrayList\obj\Debug\Klasa_ArrayList.pdb
